@@ -20,7 +20,7 @@ How to implement in project:
 4. Change "download_url" in file setup.py (path to created release);
 5. Add plugin path to requirements.txt (for example) - git+%%path_to_copied_repository%%:
 ```commandline
-git+https://gitlab2.eleks-software.local/python/test_rail_integration_plugin
+git+https://github.com/Slamnlc/test_rail_integration_plugin
 ```
 
 For any questions, contact **Maksym Biriukov (Maksym.Biriukov@eleks.com)**
